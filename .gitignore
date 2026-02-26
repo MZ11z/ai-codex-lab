@@ -18,3 +18,5 @@ data/
 
 # --- Jupyter temporary checkpoints ---
 .ipynb_checkpoints/
+# --- Model artifacts ---
+artifacts/
